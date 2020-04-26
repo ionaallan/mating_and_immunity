@@ -1,2 +1,3 @@
 # mating_and_immunity
-script for analysis of survival data
+Script for analysis of survival data
+Thanks to Mary-Kate Corbally for original template script
